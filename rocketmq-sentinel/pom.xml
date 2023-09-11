@@ -20,7 +20,7 @@
     </licenses>
 
     <properties>
-        <sentinel.version>0.1.0</sentinel.version>
+        <sentinel.version>0.2.0</sentinel.version>
         <rocketmq.version>4.2.0</rocketmq.version>
 
         <!-- Build -->
