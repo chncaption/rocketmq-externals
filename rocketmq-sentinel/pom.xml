@@ -21,7 +21,7 @@
 
     <properties>
         <sentinel.version>0.1.0</sentinel.version>
-        <rocketmq.version>4.2.0</rocketmq.version>
+        <rocketmq.version>4.9.1</rocketmq.version>
 
         <!-- Build -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
