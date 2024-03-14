@@ -22,7 +22,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <rocketmq.version>4.2.0</rocketmq.version>
-        <hbase.version>1.4.4</hbase.version>
+        <hbase.version>2.5.8-hadoop3</hbase.version>
     </properties>
 
     <dependencies>
