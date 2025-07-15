@@ -36,8 +36,8 @@
         <!-- compiler settings properties -->
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
-        <flume.version>1.8.0</flume.version>
-        <rocketmq.version>4.7.0</rocketmq.version>
+        <flume.version>1.10.0</flume.version>
+        <rocketmq.version>5.1.0</rocketmq.version>
     </properties>
     <dependencies>
         <dependency>
