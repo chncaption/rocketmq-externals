@@ -30,7 +30,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <rocketmq.version>4.9.2</rocketmq.version>
+        <rocketmq.version>5.1.0</rocketmq.version>
 
         <!-- Maven properties -->
         <maven.test.skip>false</maven.test.skip>
